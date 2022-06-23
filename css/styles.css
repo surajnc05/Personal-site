@@ -49,6 +49,7 @@ a:hover{
   position:relative;
   padding-top: 100px;
 }
+
 .middle-container {
   margin: 100px 0;
 
@@ -138,3 +139,4 @@ color: #11999E;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
